@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+  <Targets>
+    <Machine>
+      <Name>win11-1</Name>
+      <IP>192.168.70.100</IP>
+    </Machine>
+    <Machine>
+      <Name>win11-2</Name>
+      <IP>192.168.70.102</IP>
+    </Machine>
+  </Targets>
